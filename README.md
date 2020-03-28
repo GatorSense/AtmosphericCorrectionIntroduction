@@ -7,7 +7,7 @@ Please reference this work if any part of it is used elsewhere:
 
 
 ## Requirements:
-These are the python packages used:
+This code uses Python 3. These are the python packages used:
 * numpy
 * matplotlib
 * rasterio
