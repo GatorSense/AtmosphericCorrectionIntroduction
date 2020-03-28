@@ -4,7 +4,7 @@ This code base contains a brief introduction to atmospheric correction for remot
 Authors: Susan Meerdink
 
 Please reference this work if any part of it is used elsewhere: 
-
+[![DOI](https://zenodo.org/badge/244970036.svg)](https://zenodo.org/badge/latestdoi/244970036)
 
 ## Requirements:
 This code uses Python 3. These are the python packages used:
