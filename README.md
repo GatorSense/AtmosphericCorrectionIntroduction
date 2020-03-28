@@ -1,17 +1,17 @@
 # A Brief Introduction to Atmospheric Correction
-This code base contains a brief introduction to atmospheric correction for remote sensing imagery using examples from drone imagery. 
+This code base contains a brief introduction to atmospheric correction for remote sensing imagery using examples from drone imagery. It is broken into three parts: Introduction, Empirical Line Method, Radiative Transfer Models. 
 
 Authors: Susan Meerdink
 
 Please reference this work if any part of it is used elsewhere: 
 
 
-The file requirements.txt gives all of the package dependencies for the Python environment. You should be able to install them with the command:
-```
-> pip install -r requirements.txt
-```
+## Requirements:
+These are the python packages used:
+* numpy
+* matplotlib
+* rasterio
+* spectral
+* Py6S
 
-Start jupyter:
-```
-> jupyter notebook
-```
+In addition, to run Py6S it is necessary to install 6S which is a complied Fortran code base. Please follow these instructions for installing 6S: https://py6s.readthedocs.io/en/latest/installation.html
